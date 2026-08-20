@@ -111,5 +111,3 @@ Learning the fundamentals of **Artificial Intelligence and Machine Learning**.
 <p align="center">
   ✨ <strong>Keep Learning • Keep Building • Keep Growing</strong> 🚀
 </p>
-
-
